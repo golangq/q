@@ -1,1 +1,1 @@
-module github.com/y0ssar1an/q
+module github.com/golangq/q
